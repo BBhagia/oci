@@ -29,13 +29,13 @@ This lab assumes you have:
 
 *This is the "fold" - below items are collapsed by default*
 
-## Task 1: Concise Task Description
+## Task 1: Create Catalog Item
 
 (optional) Task 1 opening paragraph.
 
 1. Step 1
 
-	![Image alt text](images/sample1.png)
+	![Image alt text](images/catalog.png " ")
 
 	> **Note:** Use this format for notes, hints, and tips. Only use one "Note" at a time in a step.
 
@@ -49,7 +49,7 @@ This lab assumes you have:
 
    If you add another paragraph, add 3 spaces before the line.
 
-## Task 2: Concise Task Description
+## Task 2: Create Runbook
 
 1. Step 1 - tables sample
 
@@ -80,6 +80,10 @@ This lab assumes you have:
 	```
   <copy>ssh -i <ssh-key-file></copy>
   ```
+
+## Task 3: Create Fleet
+## Task 4: Execute Runbook
+## Task 5: Verify Deployment
 
 ## Learn More
 

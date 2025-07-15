@@ -2,13 +2,11 @@
 
 ## About this Workshop
 
-This introduction covers the complete "parent" workshop. Use this text to set up the story for the workshop. Be engaging - what will the learner get from spending their time on this workshop?
+As organizations scale their presence on Oracle Cloud Infrastructure (OCI), managing patching, provisioning, and compliance across a diverse set of resources becomes increasingly complex. OCI Fleet Application Management solves this challenge by providing a centralized platform to automate and govern cloud operations at scale, reducing manual effort while improving consistency and security. This workshop explores how enterprises can streamline infrastructure provisioning, apply patches to multi-tier applications like Oracle Fusion Middleware, and maintain compliance for both Oracle and third-party software. By leveraging resource grouping and policy-driven automation, participants will gain a practical path to operational efficiency across their entire OCI environment.
 
 Estimated Workshop Time: -- hours -- minutes (This estimate is for the entire workshop - it is the sum of the estimates provided for each of the labs included in the workshop.)
 
-*You may add an option video, using this format: [](youtube:YouTube video id)*
-
-  [](youtube:zNKxJjkq0Pw)
+  [](videohub:1_diphpf85)
 
 ### Objectives
 
@@ -16,9 +14,7 @@ Estimated Workshop Time: -- hours -- minutes (This estimate is for the entire wo
 
 In this workshop, you will learn how to:
 * Provision
-* Setup
-* Load
-* Query
+* Patch Oracle Fusion Middleware application
 
 ### Prerequisites (Optional)
 
@@ -40,6 +36,6 @@ In general, the Introduction does not have Steps.
 * [URL text 2](http://docs.oracle.com)
 
 ## Acknowledgements
-* **Author** - <Name, Title, Group>
+* **Author** - Bhumika Bhagia
 * **Contributors** -  <Name, Group> -- optional
 * **Last Updated By/Date** - <Name, Month Year>
